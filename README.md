@@ -16,4 +16,4 @@
 Por isso lançamos o app Tech Trash visando aproximar a população do descarte responsável e estimular a visão dos benefícios que essa pratica traz.
 ## Objetivo
 Aproximando a população do descarte consciente utilizando nossa aplicação o usuário vai saber exatamente onde localizar um descarte mais próximo da sua casa ou empresa e com isso deixando de realizar descarte irregular que é passível de multa conforme lei prevista nos artigos 5º e 6º da Lei nº 176/1997 e o artigo 27 da Lei nº 552/00.
-# ![terra](terra.jpg)
+# ![alt text](http://url/to/terra.png)
