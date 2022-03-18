@@ -30,3 +30,28 @@ Tech Trash será um app para os dispositivos móveis que integra informações e
 - Financiadores
 ### Estrutura do projeto
 # ![estrutura](https://github.com/brunocezarsantos/Tech_Trash/blob/main/Imagens/2022-03-17%2022_06_58-Window.png)
+### Restrições
+- O projeto deverá ser entregue em no máximo 2 meses.
+- Tempo diário para término das etapas do projeto.
+- Falta de foco no cronograma do projeto.
+- Falta de organização.
+- Sair dos segmentos do projeto.
+### Premissas
+- 2 horas diárias de dedicação ao projeto.
+- Validação semanal das fases do projeto por gerente de projeto.
+- Planejamento.
+- Execução das atividades.
+- Ambiente propício para realização do projeto.
+### Principais riscos
+- Dificuldade no levantamento dos requisitos.
+- Problemas com fornecedores.
+- Falta de mão-de-obra qualificada.
+- Estouro de orçamento
+### Previsão orçamentária
+O Aplicativo será cobrado do cliente no valor de R$60 mil, com adiantamento de 25% para o início do projeto.
+Depois de pronto, o aplicativo ainda terá outros custos: **manutenção, evolução e hospedagem em um servidor**. O custo para contratar esses serviços no caso do aplicativo Tech Trash, que vai exigir servidores mais potentes, o custo total pode variar entre R$ 8 mil a R$ 25 mil por mês.
+
+Início do Projeto: 		01/03/2022
+
+Fim Previsto do Projeto: 	20/05/2022.
+
