@@ -20,7 +20,7 @@ Aproximando a população do descarte consciente utilizando nossa aplicação o 
 Nossa prosa é incentivar o descarte consciente pois nosso meio ambiente já sofre com descarte irregular a vários anos e causa grandes enchentes nas metrópoles criando prejuízos incalculáveis e risco de morte. 
 
 Estreitando a relação população e meio ambiente com a parceria do governo federal vamos contribuir para uma mudança de postura atrás de um futuro sustentável.
-## DESCRIÇÃO DO PROJETO EM ALTO NÍVEL
+## Descrição do projeto em alto nível
 Tech Trash será um app para os dispositivos móveis que integra informações e serviços de sistemas urbanos de limpeza, coleta e destinação de resíduos de sua cidade de forma gratuita, on-line e em tempo real para que os habitantes, acompanhe a localização de caminhões de coleta domiciliar e seletiva em tempo real e não perca os dias e horários que passam em sua rua, recebendo também informações sobre mutirões de limpeza, dados estatísticos, melhores práticas, endereços dos Pontos de Entrega e Ecopontos de forma atualizada e totalmente integrada, cadastrando sua casa, trabalho, escola ou qualquer outro lugar perto de você.
 ### Partes interessadas no projeto:
 - Usuários
@@ -28,3 +28,5 @@ Tech Trash será um app para os dispositivos móveis que integra informações e
 - Gerente de projeto
 - Equipe de projetos
 - Financiadores
+### Estrutura do projeto
+# ![estrutura](https://github.com/brunocezarsantos/Tech_Trash/blob/main/Imagens/2022-03-17%2022_06_58-Window.png)
